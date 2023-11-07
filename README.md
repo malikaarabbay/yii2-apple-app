@@ -58,3 +58,8 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+
+For login:
+
+admin@example.com
+1234
